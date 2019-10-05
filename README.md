@@ -32,6 +32,7 @@ Features :
 
 - [EJS Docs](https://ejs.co/#docs)
 - [Express Docs](https://expressjs.com/en/starter/installing.html)
+- [Article](https://medium.com/@bhanushali.mahesh3/creating-a-simple-website-with-node-js-express-and-ejs-view-engine-856382a4578f)
 ---
 
 ### Assignments
